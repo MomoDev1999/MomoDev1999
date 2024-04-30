@@ -4,7 +4,7 @@
   <p>
     ¡Hola! Soy MomoDev, un entusiasta del desarrollo de software con experiencia en una variedad de tecnologías. Me apasiona crear soluciones innovadoras y eficientes para los desafíos del mundo real. Aquí tienes un vistazo rápido a mis habilidades y experiencia:
   </p>
-  <div align="center">
+  <div>
   <ul>
     <li>Desarrollo de aplicaciones móviles con Ionic y Angular 📱.</li>
     <li>Construcción de aplicaciones web dinámicas con Laravel, PHP, HTML, CSS y Bootstrap 🌐.</li>
