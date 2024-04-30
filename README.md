@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Awesome</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -22,8 +28,11 @@
             text-shadow: 2px 2px 4px #000000;
         }
     </style>
-
+</head>
+<body>
     <div class="container">
         <img src="https://cdn.leonardo.ai/users/40344ce2-26b2-4ac4-9a5c-2672816e4111/generations/e295c5cf-885c-4d05-acad-12344c4fa929/Default_Sad_raccoon_looking_down_animation_style_Studio_Ghibli_0.jpg" alt="Sad Raccoon">
         <div class="text">¡Hola [Tu Nombre]!</div>
     </div>
+</body>
+</html>
