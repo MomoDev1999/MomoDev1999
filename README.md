@@ -6,7 +6,7 @@
   </p>
   <ul style="list-style-type: none; padding: 0; text-align: left;">
     <li>Desarrollo de aplicaciones móviles con Ionic y Angular 📱.</li>
-    <li>Construcción de aplicaciones web dinámicas con Laravel, PHP, HTML, CSS y Bootstrap 🌐.</li>
+    <li>Construcción de aplicaciones web dinámicas con Laravel, PHP, HTML, CSS, Bootstrap, JavaScript y jQuery 🌐.</li>
     <li>Gestión de bases de datos con MySQL, Oracle SQL 🛢️.</li>
     <li>Desarrollo de aplicaciones con Spring Boot y Angular ☕.</li>
     <li>Experiencia en desarrollo de aplicaciones Django 🖥️.</li>
